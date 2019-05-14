@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/at/htlle/shooter/MainStarter.java=UTF-8
+encoding//src/at/htlle/shooter/gameobjects/Asteroid.java=UTF-8
+encoding//src/at/htlle/shooter/gameobjects/HealthBar.java=UTF-8
+encoding//src/at/htlle/shooter/gameobjects/Rocket.java=UTF-8
+encoding//src/at/htlle/shooter/gameobjects/SpaceShip.java=UTF-8
